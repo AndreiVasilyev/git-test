@@ -9,4 +9,5 @@ public class Car {
     private LocalDate produced;
     private Color color;
     private String bodyType;
+    private int win;
 }
