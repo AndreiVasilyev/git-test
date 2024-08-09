@@ -10,4 +10,5 @@ public class Car {
     private Color color;
     private String bodyType;
     private int win;
+    private Transmission transmission;
 }
