@@ -11,4 +11,5 @@ public class Car {
     private String bodyType;
     private int win;
     private Transmission transmission;
+    private Options options;
 }
