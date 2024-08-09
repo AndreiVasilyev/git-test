@@ -12,4 +12,5 @@ public class Car {
     private int win;
     private Transmission transmission;
     private Options options;
+    private int warranty;
 }
