@@ -8,4 +8,5 @@ public class Car {
     private String manufacturer;
     private LocalDate produced;
     private Color color;
+    private String bodyType;
 }
